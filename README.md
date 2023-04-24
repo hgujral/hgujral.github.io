@@ -13,3 +13,6 @@ Specialties:
 - Databases – various commercial and open source SQL/NoSQL
 - SOA implementations, Multichannel Process and Data Integration – Realtime APIs (SOAP/REST/GraphQL), Streaming, and Batch
 - Infor Epiphany, Salesforce.com, Microsoft Dynamics, Oracle CRM
+
+## President at GA Infotech
+GA Infotech is an Atlanta based information technology company with specialization in data engineering, predictive analytics, and competitive analysis. We work with digital marketing and communications teams to improve customer experience via sales force automation, contact center solutions, and effective omni-channel marketing.
