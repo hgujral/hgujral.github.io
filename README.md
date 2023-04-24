@@ -14,5 +14,9 @@ Specialties:
 - SOA implementations, Multichannel Process and Data Integration – Realtime APIs (SOAP/REST/GraphQL), Streaming, and Batch
 - Infor Epiphany, Salesforce.com, Microsoft Dynamics, Oracle CRM
 
+[LinkedIn](https://www.linkedin.com/in/harpalgujral/) | [Twitter](https://twitter.com/HarpalGujral) | [Instagram](https://www.instagram.com/hgujral/)
+
 ## President at GA Infotech
 GA Infotech is an Atlanta based information technology company with specialization in data engineering, predictive analytics, and competitive analysis. We work with digital marketing and communications teams to improve customer experience via sales force automation, contact center solutions, and effective omni-channel marketing.
+
+[GA Infotech](https://www.gainfotech.com) | <harpal@gainfotech.com>
