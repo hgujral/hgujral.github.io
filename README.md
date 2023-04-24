@@ -1,4 +1,5 @@
-# Harpal Gujral
+<h1 align=middle>Harpal Gujral</h1>
+<p align=middle><img src="https://avatars.githubusercontent.com/u/141472?s=100&v=4" alt="Harpal Gujral" style="border-radius:50%;"></p>
 
 Technical consultant with specific interest in using new and emerging technologies to organize information and improve processes and actions that help businesses grow.
 
